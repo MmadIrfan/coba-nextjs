@@ -14,6 +14,7 @@ export default function Home() {
         width={150}
         height={200}
       />
+      <Image src="/fotbar.jpeg" alt={"Foto bersama"} width={200} height={200} />
       <h1 className={styles["title-homepage"]}>
         Selamat Datang Muhammad Irfan
       </h1>
@@ -83,7 +84,7 @@ export default function Home() {
         voluptate aut, hic saepe velit officiis odio esse, dolor iusto numquam
         dicta?
       </p>
-      <Image src="/fotbar.jpeg" alt={"Foto bersama"} width={200} height={200} />
+
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi iusto
         fugiat nostrum modi voluptatibus dolorem quidem illo aliquam maxime!
